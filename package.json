@@ -1,0 +1,13 @@
+{
+  "name": "freefire-legacy-koyeb",
+  "version": "1.0.0",
+  "description": "Servidor Legacy com trava de tempo local",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "cors": "^2.8.5"
+  }
+}

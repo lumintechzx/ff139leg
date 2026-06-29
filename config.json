@@ -1,0 +1,11 @@
+{
+  "server": {
+    "port": 8080,
+    "force_year": 2019
+  },
+  "game": {
+    "client_version": "1.39.0",
+    "resource_version": "1.39.1",
+    "maintenance": false
+  }
+}
